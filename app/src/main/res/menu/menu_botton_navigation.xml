@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Inicio"
+        android:icon="@drawable/ac_voltar">
+    </item>
+    <item
+        android:id="@+id/local"
+        android:title="Add local"
+        android:icon="@drawable/ac_add">
+    </item>
+    <item
+        android:id="@+id/menu"
+        android:title="Menu"
+        android:icon="@drawable/ac_menu">
+    </item>
+     <item
+        android:id="@+id/maps"
+        android:title="Mapa"
+        android:icon="@drawable/ic_map">
+    </item>
+</menu>
